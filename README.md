@@ -61,10 +61,3 @@ Pastikan Anda memiliki hal berikut terpasang:
 - **myenv/:** Lingkungan virtual untuk dependensi Python.
 - **requirements.txt:** Daftar dependensi Python.
 
-## Berkontribusi
-
-Kontribusi sangat diterima! Silakan ikuti [pedoman kontribusi](CONTRIBUTING.md) kami.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat berkas [LICENSE](LICENSE) untuk detailnya.
